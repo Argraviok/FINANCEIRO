@@ -1,0 +1,13 @@
+{
+  "name": "FinVi — Finanças Inteligentes",
+  "short_name": "FinVi",
+  "description": "Seu assistente financeiro pessoal com IA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f3ef",
+  "theme_color": "#1a1410",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any",       "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
